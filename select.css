@@ -1,0 +1,167 @@
+/*  */
+
+/* ul { 
+	color: blue;
+}
+li {
+	color: red;
+}
+
+h1, h2,h3{
+    text-align: center;
+    color: blue;
+}
+i{
+    color: red;
+
+}
+/* p i {
+	color: red;
+} */
+/*
+b{
+    color: red;
+}
+.eee{
+    color: green;
+}
+
+.zzz{
+    color: red;
+}
+
+.odd{
+    color: red;
+}
+
+.eve{
+    color: green;
+}
+
+.eeee{
+    color: red;
+}
+.red{
+    color: red;
+}
+
+.xxx{
+    font-size: 30px;
+}
+
+.block1{
+    color: red;
+}
+
+.block2{
+    color: green;
+}
+
+.block3{
+    color: blue;
+}
+.Mom{
+    color: red;
+}
+.Dad{
+    color: green;
+}
+
+p{
+    color: black;
+    font-size: 10px;
+    text-align: justify;
+    
+}
+.header {
+	color: red;
+}
+
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+ i.eee{
+    color: red;
+ }
+
+ .block .header {
+	font-family: Arial;
+}
+.block h2.header {
+	font-size: 30px;
+	color: red;
+}
+.block h3.header {
+	font-size: 20px;
+	color: green;
+}
+
+p.eee {
+	color: green;
+}
+
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+} */
+
+/* обращение классам через id  */
+
+/* #elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+
+#elem3 { 
+    color: blue;
+}
+
+
+#block {
+    color: red;
+    font-size: 30px;
+}
+
+.text {
+    font-family: Arial;
+}
+
+#elem h2{
+    color: red;
+}
+
+.eee .zzz .ccc{
+    color: red;
+}
+p:first-of-type {
+	color: red;
+}
+h2:last-of-type {
+	color: red;
+}
+h2:nth-of-type(even) {
+	color: red;
+
+} */
+
+h2 ~ p {
+	color: red;
+}
+div * {
+	color: red;
+}
