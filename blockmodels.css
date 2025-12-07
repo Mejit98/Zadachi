@@ -1,0 +1,55 @@
+/* 
+#parent {
+	width: 300px;
+	border: 1px dotted blue;
+
+}
+#child {
+	height: 100px;
+	border: 1px solid red;
+    margin: 30px;
+    
+} */
+
+/* #parent {
+	width: 300px;
+	border: 3px dotted blue;
+
+}
+#child {
+	height: 200px;
+	border: 3px dotted green;
+    margin: 30px;
+    
+}
+
+#child1{
+    height: 100px;
+	border: 3px solid red;
+    margin: 30px;
+} */
+
+/*
+#parent {
+	width: 200px;
+    height: 300px;
+	border: 1px solid red;
+}*/
+/*
+#child {
+	margin-top:    40px; 
+	margin-right:  30px; 
+	margin-bottom: 40px; 
+	margin-left:   40px; 
+	
+	height: 100px;
+    width: 100px;
+	border: 1px solid green;
+
+}*/
+
+#elem {
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
